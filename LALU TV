@@ -1,0 +1,10 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo"https://www.google.com/search?source=univ&tbm=isch&q=logo+indosiar&client=lightning&fir=zjfofYKiTRvo8M%252ChFOtZPxGwysXWM%252C_%253BqksqQsR3Sy8OUM%252CGUdbbOeipBMAmM%252C_%253BV6c1iwSPCjltmM%252CGE5LQlrVE5QbTM%252C_%253BsVNTc_pUf2RmEM%252CZSo-GHaxupyWHM%252C_%253B-hZCJIGh2sniWM%252CDDtrM2xbnyGVcM%252C_%253Biqy8VK2vrO42uM%252CCVxJjGMa7ILOSM%252C_%253BWCjoFxlL4TNJRM%252CzPcuUTpGxeIcAM%252C_%253BYBWfha6RxMaUxM%252CqYijTE9AHmha7M%252C_%253BHdViMruIgORFiM%252CDDtrM2xbnyGVcM%252C_%253BPfsDdagUOpCtCM%252CoOGag8n9QD6yoM%252C_%253BBliGqJQBqm6_nM%252CyqPx26gCgSoTUM%252C_&usg=AI4_-kSynQgaAkIDUTw3z7c7tIZetwmaMQ&sa=X&ved=2ahUKEwi81qOSt6z6AhUQR2wGHU5ZBBcQ7Al6BAgFEFs&biw=491&bih=925&dpr=2.2#imgrc=sVNTc_pUf2RmEM" group="tv indonesia", indosiar
+https://etslive-2-vidio-com.akamaized.net/exp=1664003415~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=bcafbc69b678e64f9ee8246b9393499053aa7db8778c2760f82908717d69a7f4/vp9/205_stream.mpd
+
+#EXTINF:-2 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-"tv indonesia", sctv
+https://etslive-2-vidio-com.akamaized.net/exp=1664003910~acl=/hls-p/ingest_206_*/*~hmac=098281ec79d073cdf22d02cbe5d44648d4f5a7ad0056caec82d162a2640626a5/hls-p/ingest_206_720p/index.m3u8
+
+#EXTINF:-3 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoxwA0rdPNRM-_TjmqvDnyMMOvtljSBUmOQ&usqp=CAU" group-"tv indonesia", indonesia 
+https://etslive-2-vidio-com.akamaized.net/exp=1664004685~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~hmac=20952c9a5588b4f58f021ee9ebc2e09cd4ca9ee1d7a0d01ad35a79c7355cecfc/vp9/733_stream.mpd
